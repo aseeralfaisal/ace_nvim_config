@@ -44,6 +44,14 @@ o.splitright = true
 o.splitbelow = true
 o.autoindent = true 
 o.cursorline = false
+
+vim.api.nvim_exec([[
+  augroup TerminalToggle
+    autocmd!
+    autocmd TermOpen * tnoremap <buffer> <C-n> <C-\><C-n><Cmd>NeotreeToggle<CR>
+  augroup END
+]], false)
+
 require("lazy").setup("plugins")
 
 local keymaps = require("keymaps")
