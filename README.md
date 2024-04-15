@@ -1,6 +1,6 @@
 ## **Installation (Powershell):**
       
-      git clone https://github.com/aseeralfaisal/RosephoeNvim $env:LOCALAPPDATA\nvim && nvim
+      git clone https://github.com/aseeralfaisal/afs-nvim $env:LOCALAPPDATA\nvim && nvim
       
 ![image](https://github.com/aseeralfaisal/afs-nvim/assets/67814164/a81dcac0-9d48-4dc5-bdc0-78ef59ea791d)
 
