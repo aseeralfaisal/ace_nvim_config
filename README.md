@@ -2,7 +2,7 @@
       
       git clone https://github.com/aseeralfaisal/RosephoeNvim $env:LOCALAPPDATA\nvim && nvim
       
-![image](https://github.com/aseeralfaisal/afs-nvim/assets/67814164/c9f8fe08-94d1-4dd5-a127-f2e782caaeae)
+![image](https://github.com/aseeralfaisal/afs-nvim/assets/67814164/a81dcac0-9d48-4dc5-bdc0-78ef59ea791d)
 
 **Follow the following steps to make it look nicer with Windows Terminal:**
 
